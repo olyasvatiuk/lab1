@@ -8,3 +8,4 @@ while x > 7:
     time.sleep(0.5)
  
 print('Я гуль')
+print('1000 - 7')
